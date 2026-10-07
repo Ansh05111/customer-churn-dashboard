@@ -3,7 +3,7 @@
 An interactive dashboard that predicts customer churn using XGBoost, with SHAP-based
 explainability for both global feature importance and individual predictions.
 
-**Live demo:** _add your Streamlit Cloud URL here after deploying_
+**Live demo:**  https://churn-prediction-xgboost.streamlit.app/
 
 ## Key Findings
 
